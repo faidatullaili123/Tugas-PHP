@@ -46,8 +46,7 @@
 					$hasil = "C";
 					}else{
 					$hasil = "D";
-			}
-		}
+			
 
 			
 			 ?>
